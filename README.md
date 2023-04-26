@@ -1,2 +1,1 @@
-# Puzzle-Frontend
-Frontend part for puzzle
+# logic-puzzle
